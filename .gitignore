@@ -1,0 +1,6 @@
+/lib/
+/.shards/
+*.gem
+*.swp
+/.idea/
+Gemfile.lock
