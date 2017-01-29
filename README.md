@@ -3,7 +3,7 @@
 
 Powerful methods for your strings.
 
-This is a partially ported version of the Ruby gem "mightystring" over to Crystal.  Not nearly as
+This is a partially ported version of the Ruby gem ["mightystring"](https://github.com/danielpclark/MightyString) over to Crystal.  Not nearly as
 much functionality is provided but hopefully these methods will still be found useful!
 
 ##Install
