@@ -13,8 +13,8 @@ Add this shard you your shard.yml file.
 ```
 dependencies:
   mightystring:
-    github: danielpclark/mightystring
-    branch: crystal
+    github: danielpclark/mightystring.cr
+    branch: master
 ```
 
 And install your dependencies with `crystal deps`.  Then add `require "mightystring"` where you need it.
