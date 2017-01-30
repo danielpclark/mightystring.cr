@@ -10,11 +10,11 @@ much functionality is provided but hopefully these methods will still be found u
 
 Add this shard you your shard.yml file.
 
-```
+```yaml
 dependencies:
   mightystring:
     github: danielpclark/mightystring.cr
-    branch: master
+    version: ~> 1.0.0
 ```
 
 And install your dependencies with `crystal deps`.  Then add `require "mightystring"` where you need it.
