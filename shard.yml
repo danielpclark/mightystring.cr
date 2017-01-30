@@ -4,6 +4,9 @@ version: 1.0.0
 authors:
   - Daniel P. Clark <6ftdan@gmail.com>
 
+description: |
+  Add powerful methods to strings.
+
 development_dependencies:
   minitest:
     git: https://github.com/ysbaddaden/minitest.cr.git
