@@ -1,4 +1,4 @@
-##MightyString
+## MightyString
 [![Build Status](https://travis-ci.org/danielpclark/mightystring.cr.svg?branch=master)](https://travis-ci.org/danielpclark/mightystring.cr)
 
 Powerful methods for your strings.
@@ -6,7 +6,7 @@ Powerful methods for your strings.
 This is a partially ported version of the Ruby gem ["mightystring"](https://github.com/danielpclark/MightyString) over to Crystal.  Not nearly as
 much functionality is provided but hopefully these methods will still be found useful!
 
-##Install
+## Install
 
 Add this shard you your shard.yml file.
 
@@ -19,7 +19,7 @@ dependencies:
 
 And install your dependencies with `crystal deps`.  Then add `require "mightystring"` where you need it.
 
-##Usage
+## Usage
 
 ```ruby
 # String#del
